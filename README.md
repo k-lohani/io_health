@@ -51,3 +51,5 @@ Provide your code, instructions to run it, and a brief summary of your approach 
     
 ### Results
 *Accuracy* : Around 97.40% after 5 epochs, demonstrating excellent learning on unseen validation data.
+
+* Note: The .h5 file is bigger than the file limit on git so it will be generated upon running the io_health.py file.
